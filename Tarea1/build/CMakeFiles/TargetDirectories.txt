@@ -1,0 +1,3 @@
+/mnt/c/Users/ALAN JOSUE/Documents/Visualizacion/Visualizacion/Tarea1/build/CMakeFiles/RayTracer.dir
+/mnt/c/Users/ALAN JOSUE/Documents/Visualizacion/Visualizacion/Tarea1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ALAN JOSUE/Documents/Visualizacion/Visualizacion/Tarea1/build/CMakeFiles/rebuild_cache.dir
