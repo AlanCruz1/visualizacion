@@ -49,14 +49,14 @@ Se provee el código base con la estructura y métodos necesarios. Únicamente d
 ![imagen del error](./capturas/errores/error1.png)
 #### Así que modifiqué la parte del GLEW y aunque me salen advertencias en la ejecución ya me permitía ver la renderización de los triángulos
 ![bloque de código](./capturas/errores/error2.png)
+También agregué la funcionalidad extra para lo cuál tuve que usar un hilo que hiciera el proceso de esperar la entrada en la terminal y volver 
+a renderizar por lo que modifiqué el código original en el archivo indico esas partes modificadas y agregadas.
 
-## USO
+## Uso
 #### Al correr el progama se pedirá el nivel del triángulo de Sierpinski solo se puede agregar una entrada del 1 al 9, por default muestra el nivel 1
 1. **Ingresar un número del 1 a 9 y presionar ENTER**
 
 2. **Para salir es necesario usar ctrl+c o el comando que te permitar matar un proceso de terminal**
-
-![imagen de ejemplo](./media/ejecucion.png)
 
 #### Nivel 1:
 ![1](./capturas/resultados/1.png)
@@ -73,3 +73,6 @@ Se provee el código base con la estructura y métodos necesarios. Únicamente d
 #### Nivel 9:
 ![9](./capturas/resultados/5.png)
 ---
+<img width="1626" height="794" alt="demostración" src="https://github.com/user-attachments/assets/3351d9b1-dffc-4990-a548-21432cc62f23" />
+
+
